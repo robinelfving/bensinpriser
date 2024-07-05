@@ -1,0 +1,9 @@
+{
+  "name": "Bensinpriser",
+  "content_in_root": false,
+  "domains": ["bensinpriser"],
+  "country": "SE",
+  "homeassistant": "2024.6.0",
+  "render_readme": true,
+  "zip_release": false
+}
