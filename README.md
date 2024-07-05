@@ -1,4 +1,4 @@
-﻿# Bensinpriser
+﻿## Bensinpriser
 detta är ett "custom_components" för bensinpriser
 lite lättare system än " https://henrikhjelm.se/api/index2.php "
 
