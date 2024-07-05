@@ -47,10 +47,10 @@ async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry):
     return True
 
 class BensinpriserDataUpdateCoordinator(DataUpdateCoordinator):
-    def __init__(self, hass: HomeAssistant, lan: str, station: str):
+    def __init_(self, hass: HomeAssistant, lan: str, station: str):
         self.lan = lan
         self.station = station
-        super().__init__(hass, _LOGGER, name=DOMAIN, update_interval=SCAN_INTERVAL)
+        super().__init_(hass, _LOGGER, name=DOMAIN, update_interval=SCAN_INTERVAL)
 
     async def _async_update_data(self):
         try:
@@ -69,7 +69,7 @@ class BensinpriserDataUpdateCoordinator(DataUpdateCoordinator):
 
 class BensinpriserSensor(SensorEntity):
     def __init__(self, coordinator: BensinpriserDataUpdateCoordinator, name: str):
-        super().__init__()
+        super().__init_()
         _LOGGER.debug(f"Creating BensinpriserSensor: {name}")
         self.coordinator = coordinator
         self._name = name

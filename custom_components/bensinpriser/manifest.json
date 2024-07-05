@@ -1,8 +1,12 @@
 {
   "domain": "bensinpriser",
-  "documentation": "https://raw.githubusercontent.com/henrikhjelmse/bensinpriser/main/info.md",
+  "name": "Bensinpriser",
+  "version": "1.0",
+  "documentation": "https://github.com/henrikhjelmse/bensinpriser/",
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
-  "codeowners": ["henrikhjelmse"],
-  "name": "bensinpriser",
-  "version": "0.0.1"
+  "dependencies": [],
+  "codeowners": ["@henrikhjelmse"],
+  "requirements": [],
+  "config_flow": true,
+  "icon": "custom_components/bensinpriser/fuel.png"
 }
