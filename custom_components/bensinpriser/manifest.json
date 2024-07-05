@@ -2,7 +2,7 @@
   "domain": "bensinpriser",
   "name": "Bensinpriser",
   "version": "1.0",
-  "documentation": "https://github.com/henrikhjelmse/bensinpriser/",
+  "documentation": "https://github.com/henrikhjelmse/bensinpriser",
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
   "dependencies": [],
   "codeowners": ["@henrikhjelmse"],
