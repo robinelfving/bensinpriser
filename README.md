@@ -1,9 +1,9 @@
 # Bensinpriser
-detta är ett "custom_components" för bensinpriser
-lite lättare system än " https://henrikhjelm.se/api/index2.php "
+detta Ã¤r ett "custom_components" fÃ¶r bensinpriser
+lite lÃ¤ttare system Ã¤n " https://henrikhjelm.se/api/index2.php "
 
 ## Konfiguration
-Görs i home assistant
+GÃ¶rs i home assistant
 
-## Användning & Installation
+## AnvÃ¤ndning & Installation
 https://www.henrikhjelm.se/wordpress/bensin-priser-i-sverige-home-assistant/
