@@ -2,6 +2,8 @@
   "domains": ["sensor"],
   "name": "bensinpriser",
   "codeowners": ["@henrikhjelmse"],
+  "dependencies": [],
+  "after_dependencies": ["logging","requests","json","datetime"],
   "requirements": [],
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
   "documentation": "https://github.com/henrikhjelmse/bensinpriser/blob/master/info.md",
