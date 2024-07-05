@@ -1,5 +1,5 @@
 {
-  "domain": "sensor",
+  "domains": ["sensor"],
   "name": "bensinpriser",
   "codeowners": ["@henrikhjelmse"],
   "requirements": [],
