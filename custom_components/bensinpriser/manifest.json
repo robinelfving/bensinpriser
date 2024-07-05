@@ -6,7 +6,7 @@
   "after_dependencies": ["logging","requests","json","datetime"],
   "requirements": [],
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
-  "documentation": "https://github.com/henrikhjelmse/bensinpriser/blob/master/info.md",
+  "documentation": "https://github.com/henrikhjelmse/bensinpriser/blob/master/README.md",
   "version": "v1.0.0",
   "iot_class": "cloud_polling"
 }
