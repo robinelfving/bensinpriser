@@ -1,4 +1,4 @@
-# Bensinpriser
+## Bensinpriser
 detta är ett custom_components för bensinpriser
 
 ## Konfiguration
