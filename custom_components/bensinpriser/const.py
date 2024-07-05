@@ -1,1 +1,1 @@
-DOMAIN = "bensinpriser"
+DOMAIN = "sensor"
