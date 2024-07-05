@@ -1,12 +1,8 @@
 {
-  "domains": ["sensor"],
-  "name": "bensinpriser",
-  "codeowners": ["@henrikhjelmse"],
-  "dependencies": [],
-  "after_dependencies": ["logging","requests","json","datetime"],
-  "requirements": [],
+  "domain": "bensinpriser",
+  "documentation": "https://github.com/henrikhjelmse/bensinpriser/",
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
-  "documentation": "https://github.com/henrikhjelmse/bensinpriser/blob/master/README.md",
-  "version": "v1.0.0",
-  "iot_class": "cloud_polling"
+  "codeowners": ["henrikhjelmse"],
+  "name": "bensinpriser",
+  "version": "0.0.1"
 }
