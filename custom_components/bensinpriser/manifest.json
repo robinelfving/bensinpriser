@@ -1,6 +1,6 @@
 {
-  "domain": "sensor",
-  "documentation": "https://github.com/henrikhjelmse/bensinpriser/",
+  "domain": "bensinpriser",
+  "documentation": "https://raw.githubusercontent.com/henrikhjelmse/bensinpriser/main/info.md",
   "issue_tracker": "https://github.com/henrikhjelmse/bensinpriser/issues",
   "codeowners": ["henrikhjelmse"],
   "name": "bensinpriser",
